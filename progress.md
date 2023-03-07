@@ -24,8 +24,8 @@
 - [x] Square869120Contest#4 B - Buildings are Colorful!
 
 ### 順列全探索
-- [ ] ABC 145 C - Average Length
-- [ ] ABC 150 C - Count Order
+- [x] ABC 145 C - Average Length
+- [x] ABC 150 C - Count Order
 - [x] ALDS_13_A - 8クイーン問題
 
 ## 二分探索
