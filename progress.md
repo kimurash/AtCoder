@@ -12,15 +12,15 @@
 ### 工夫して通り数を減らす全列挙
 - [x] ABC 095 C - Half and Half
 - [x] 三井住友信託銀行プログラミングコンテスト2019 D - lucky PIN
-- [x] JOI2007 本選3 - 最古の遺跡
+- [x] JOI 2007 本選3 - 最古の遺跡
 - [x] Square869120Contest#6 B - AtCoder Markets
-- [x] JOI2008 予選4 - 星座探し
+- [x] JOI 2008 予選4 - 星座探し
 
 ### ビット全探索
 - [x] ALDS_5_A - 総当たり
 - [x] ABC 128 C - Switches
 - [x] ABC 002 D - 派閥
-- [x] JOI2008 予選5 - おせんべい
+- [x] JOI 2008 予選5 - おせんべい
 - [x] Square869120Contest#4 B - Buildings are Colorful!
 
 ### 順列全探索
@@ -30,13 +30,17 @@
 
 ## 二分探索
 - [x] ALDS_4_B - 二分探索
-- [ ] JOI2009 本選2 - ピザ
-- [ ] ABC 077 C - Snuke Festival
-- [ ] ABC 023 D - 射撃王
-- [ ] ABC 054 B - ムーアの法則
-- [ ] JOI 2008 本選3 - ダーツ
+- [x] JOI2009 本選2 - ピザ
+- [x] ABC 077 C - Snuke Festival
+- [x] ABC 023 D - 射撃王
+- [x] ABC 054 B - ムーアの法則
+- [x] JOI 2008 本選3 - ダーツ
 
 ## 深さ優先探索
+- [ ] ALDS_11_B - 深さ優先探索
+- [ ] AOJ Vol.11 1160 - 島はいくつある?
+- [ ] ABC 138 D - Ki
+- [ ] JOI 2009 予選4 - 薄氷渡り
 
 ## 幅優先探索
 

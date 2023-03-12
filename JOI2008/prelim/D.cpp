@@ -14,10 +14,10 @@ public:
     Coord(){}
     Coord(int32_t x, int32_t y): x(x), y(y){}
 
-    /*
-        メンバ変数は全てpublicなのでfriendは付けなくてもよいが,
-        付けないと仮引数が多すぎると怒られた
-    */
+/*
+    メンバ変数は全てpublicなのでfriendは付けなくてもよいが,
+    付けないと仮引数が多すぎると怒られた
+*/
     friend Coord operator+(const Coord& right, const Coord& left){
         return(Coord(right.x + left.x, right.y + left.y));
     }
